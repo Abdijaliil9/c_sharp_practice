@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\bin\Debug\class_assigment.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\bin\Debug\class_assigment.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\bin\Debug\class_assigment.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.Form1.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.Properties.Resources.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.csproj.GenerateResource.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\class_assigment\class_assigment\obj\Debug\class_assigment.exe.config
