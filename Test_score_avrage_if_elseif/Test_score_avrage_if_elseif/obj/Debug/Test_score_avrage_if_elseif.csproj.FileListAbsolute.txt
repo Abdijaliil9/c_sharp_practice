@@ -1,0 +1,11 @@
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\bin\Debug\Test_score_avrage_if_elseif.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\bin\Debug\Test_score_avrage_if_elseif.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\bin\Debug\Test_score_avrage_if_elseif.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.Form1.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.Properties.Resources.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.csproj.GenerateResource.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Test_score_avrage_if_elseif\Test_score_avrage_if_elseif\obj\Debug\Test_score_avrage_if_elseif.exe.config

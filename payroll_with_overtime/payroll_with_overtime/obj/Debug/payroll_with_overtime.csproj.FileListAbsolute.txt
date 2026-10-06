@@ -1,0 +1,22 @@
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\bin\Debug\payroll_with_overtime.exe.config
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\bin\Debug\payroll_with_overtime.exe
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\bin\Debug\payroll_with_overtime.pdb
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.Form1.resources
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.Properties.Resources.resources
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.exe
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.pdb
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\bin\Debug\payroll_with_overtime.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\bin\Debug\payroll_with_overtime.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\bin\Debug\payroll_with_overtime.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.Form1.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.Properties.Resources.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.csproj.GenerateResource.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\payroll_with_overtime\payroll_with_overtime\obj\Debug\payroll_with_overtime.pdb
