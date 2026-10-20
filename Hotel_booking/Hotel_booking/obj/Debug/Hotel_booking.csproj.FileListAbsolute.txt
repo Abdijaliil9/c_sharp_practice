@@ -1,0 +1,10 @@
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\bin\Debug\Hotel_booking.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\bin\Debug\Hotel_booking.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\bin\Debug\Hotel_booking.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.Form1.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.Properties.Resources.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.csproj.GenerateResource.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Hotel_booking\Hotel_booking\obj\Debug\Hotel_booking.pdb
