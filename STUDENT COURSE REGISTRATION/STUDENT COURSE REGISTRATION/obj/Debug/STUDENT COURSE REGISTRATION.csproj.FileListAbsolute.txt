@@ -1,0 +1,22 @@
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\bin\Debug\STUDENT COURSE REGISTRATION.exe.config
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\bin\Debug\STUDENT COURSE REGISTRATION.exe
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\bin\Debug\STUDENT COURSE REGISTRATION.pdb
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT_COURSE_REGISTRATION.Form1.resources
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT_COURSE_REGISTRATION.Properties.Resources.resources
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.exe
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.pdb
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\bin\Debug\STUDENT COURSE REGISTRATION.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\bin\Debug\STUDENT COURSE REGISTRATION.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\bin\Debug\STUDENT COURSE REGISTRATION.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT_COURSE_REGISTRATION.Form1.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT_COURSE_REGISTRATION.Properties.Resources.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.csproj.GenerateResource.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\abdijaliil\STUDENT COURSE REGISTRATION\STUDENT COURSE REGISTRATION\obj\Debug\STUDENT COURSE REGISTRATION.exe.config
