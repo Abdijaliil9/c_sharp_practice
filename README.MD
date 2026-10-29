@@ -15,12 +15,12 @@
 
 ---
 ## Course Description
-Write a short description of the course here.
+Write a short description of the course here
 ---
 ## Course Objectives
 By the end of this course, students should be able to:
 * Understand the fundamentals of C# programming.
-* Apply programming logic and problem-solving techniques.
+* Apply programming logic and problem-solving techniques
 * Understand event-driven programming.
 * Develop graphical user interface applications.
 * Work with methods, arrays, lists, and files.
