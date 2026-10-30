@@ -1,0 +1,22 @@
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\bin\Debug\Reasearch other methods using files.exe.config
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\bin\Debug\Reasearch other methods using files.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\bin\Debug\Reasearch other methods using files.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch_other_methods_using_files.Form1.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch_other_methods_using_files.Properties.Resources.resources
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.csproj.GenerateResource.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.exe
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.pdb
+C:\Users\hp\Documents\c#(C-SHARP)  folder\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.csproj.AssemblyReference.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch_other_methods_using_files.Form1.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch_other_methods_using_files.Properties.Resources.resources
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.csproj.GenerateResource.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.csproj.CoreCompileInputs.cache
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\bin\Debug\Reasearch other methods using files.exe.config
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\bin\Debug\Reasearch other methods using files.exe
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\bin\Debug\Reasearch other methods using files.pdb
+C:\Users\hp\Documents\universaty lactures\semester 5\C#\c_sharp_practice\Assignment_files\Reasearch other methods using files\Reasearch other methods using files\obj\Debug\Reasearch other methods using files.exe.config
