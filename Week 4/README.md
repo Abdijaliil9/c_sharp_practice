@@ -13,7 +13,7 @@
 * A **counter variable** tracks how many times a loop executes.
 * A `while` loop is a **pretest loop** because it checks the condition before executing the loop body.
 * If the condition is initially false, the loop body does not execute.
-* A variable should be initialized before the loop if its value is needed to control the loop.
+* A variable should be initialized before the loop if its value is needed to control the loop
 * An **infinite loop** occurs when the loop condition never becomes false.
 * Updating the counter variable correctly helps prevent infinite loops.
 
