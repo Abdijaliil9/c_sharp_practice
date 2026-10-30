@@ -30,7 +30,7 @@
 * In prefix mode, the variable is updated before its value is used in an expression.
 * These operators are commonly used in loops to update counter variables.
 
-## 3. The `for` Loop
+## 3. The for Loop
 
 * A `for` loop is commonly used when a counter variable controls the number of iterations.
 * A `for` loop has three main expressions: initialization, test, and update.
