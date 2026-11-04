@@ -11,7 +11,7 @@
       "RelativeMoniker": "D:0:0:{780F6DD5-0A76-498C-BE96-D5B4EE7F98D7}|Reasearch other methods using files\\Reasearch other methods using files.csproj|solutionrelative:reasearch other methods using files\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{780F6DD5-0A76-498C-BE96-D5B4EE7F98D7}|Reasearch other methods using files\\Reasearch other methods using files.csproj|c:\\users\\hp\\documents\\universaty lactures\\semester 5\\c#\\c_sharp_practice\\assignment_files\\reasearch other methods using files\\reasearch other methods using files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{780F6DD5-0A76-498C-BE96-D5B4EE7F98D7}|Reasearch other methods using files\\Reasearch other methods using files.csproj|C:\\Users\\hp\\Documents\\universaty lactures\\semester 5\\C#\\c_sharp_practice\\Assignment_files\\Reasearch other methods using files\\reasearch other methods using files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{780F6DD5-0A76-498C-BE96-D5B4EE7F98D7}|Reasearch other methods using files\\Reasearch other methods using files.csproj|solutionrelative:reasearch other methods using files\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,25 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Documents\\universaty lactures\\semester 5\\C#\\c_sharp_practice\\Assignment_files\\Reasearch other methods using files\\Reasearch other methods using files\\Program.cs",
-              "RelativeDocumentMoniker": "Reasearch other methods using files\\Program.cs",
-              "ToolTip": "C:\\Users\\hp\\Documents\\universaty lactures\\semester 5\\C#\\c_sharp_practice\\Assignment_files\\Reasearch other methods using files\\Reasearch other methods using files\\Program.cs",
-              "RelativeToolTip": "Reasearch other methods using files\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T04:37:43.964Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -55,6 +38,22 @@
               "EditorCaption": ""
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\Documents\\universaty lactures\\semester 5\\C#\\c_sharp_practice\\Assignment_files\\Reasearch other methods using files\\Reasearch other methods using files\\Program.cs",
+              "RelativeDocumentMoniker": "Reasearch other methods using files\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\Documents\\universaty lactures\\semester 5\\C#\\c_sharp_practice\\Assignment_files\\Reasearch other methods using files\\Reasearch other methods using files\\Program.cs",
+              "RelativeToolTip": "Reasearch other methods using files\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T04:37:43.964Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Design]",
@@ -63,8 +62,7 @@
               "ToolTip": "C:\\Users\\hp\\Documents\\universaty lactures\\semester 5\\C#\\c_sharp_practice\\Assignment_files\\Reasearch other methods using files\\Reasearch other methods using files\\Form1.cs [Design]",
               "RelativeToolTip": "Reasearch other methods using files\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T12:22:00.969Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-10-29T12:22:00.969Z"
             }
           ]
         }
