@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\bin\Debug\files_ home test.exe.config
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\bin\Debug\files_ home test.exe
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\bin\Debug\files_ home test.pdb
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files_ home test.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files__home_test.Form1.resources
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files__home_test.Properties.Resources.resources
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files_ home test.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files_ home test.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files_ home test.exe
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files_ home test.pdb
+C:\Users\hp\Desktop\Lectures\Semester-5\C# programming 1\C# Projects\files_ home test\files_ home test\obj\Debug\files_ home test.exe.config

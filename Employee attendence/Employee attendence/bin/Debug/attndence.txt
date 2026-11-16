@@ -1,0 +1,20 @@
+Employee Name: abdi
+Employee ID: 12345
+Department: it
+Attendance: Present
+--------------------------
+Employee Name: cali
+Employee ID: 1234
+Department: c122
+Attendance: Present
+--------------------------
+Employee Name: cali
+Employee ID: 1234
+Department: c122
+Attendance: Present
+--------------------------
+Employee Name: abdi
+Employee ID: 1234
+Department: ca1237
+Attendance: Present
+--------------------------

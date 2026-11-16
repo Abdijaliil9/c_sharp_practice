@@ -1,0 +1,6 @@
+full name is: abdibaari mohamed ali 
+age is: 22 
+gender is: male 
+university is: jamhuriya 
+semester is: 5 
+class is: CA242 
