@@ -26,7 +26,7 @@ Files allow programs to store data permanently so that information is not lost w
 
 
 ### Reading a File with a Loop
-- A loop allows us to read all lines in a file
+- A loop allows us to read all lines in file
 - `ReadLine()` reads one line at a time.
 - The loop continues until the end of the fil
 - `null` means there is no more data to Read
