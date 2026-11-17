@@ -34,7 +34,7 @@
 
 * A `for` loop is commonly used when a counter variable controls the number of iterations.
 * A `for` loop has three main expressions: initialization, test, and update.
-* **Initialization** establishes the initial value of the counter variable.
+* **Initialization** establishes the initial value of the counter variable
 * The **test expression** is a Boolean condition that determines whether the loop continues.
 * The **update expression** increases or decreases the counter variable.
 * A `for` loop is a **pretest loop** because it checks the condition before executing the loop body.
