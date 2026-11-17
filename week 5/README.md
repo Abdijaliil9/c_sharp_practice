@@ -21,7 +21,7 @@ Files allow programs to store data permanently so that information is not lost w
 - `StreamReader` is used to read text from a file.
 - `File.OpenText()` opens an existing text file and returns a `StreamReader`.
 - `ReadLine()` reads one line at a time.
-- `Close()` closes the file after reading.
+- `Close()` closes the file after reading
 
 
 
