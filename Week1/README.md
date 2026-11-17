@@ -3,7 +3,7 @@ How To Display Solution Explorer
 Click view - click solution
 click view - property window
 
-how to display the designer
+how to display the Designer
 
 go solution
 right click form1.css
