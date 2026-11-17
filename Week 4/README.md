@@ -53,7 +53,7 @@
 
 ## 5. Using Files for Data Storage
 
-* Programs can store data in files so that it can be retrieved and used later.
+* Programs Can store data in files so that it can be retrieved and used later.
 * Working with files generally involves three steps: opening the file, processing the file, and closing the file.
 * **Opening a file** establishes access to the file so the program can work with it.
 * **Processing a file** involves reading data from it or writing data to it.
