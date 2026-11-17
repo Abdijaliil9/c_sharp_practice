@@ -49,7 +49,7 @@
 * The statements inside the loop body execute before the condition is tested.
 * A `do-while` loop executes its body at least once, even if the condition is initially false.
 * The condition determines whether another iteration will occur.
-* A `do-while` loop is useful when a task must be performed at least once.
+* A `do-while` loop is useful when a task must be performed at least Once
 
 ## 5. Using Files for Data Storage
 
