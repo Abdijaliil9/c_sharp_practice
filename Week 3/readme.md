@@ -52,4 +52,4 @@ Logical operators combine or reverse Boolean conditions.
 
 * Data conversion changes a value from one data type to another.
 * TextBox input is stored as a string, even when the user enters numeric values.
-* The `TryParse()` method Checks
+* The `TryParse()` method Check
