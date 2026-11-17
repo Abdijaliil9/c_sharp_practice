@@ -29,7 +29,7 @@ Files allow programs to store data permanently so that information is not lost w
 - A loop allows us to read all lines in a file
 - `ReadLine()` reads one line at a time.
 - The loop continues until the end of the file.
-- `null` means there is no more data to read.
+- `null` means there is no more data to read
 
 **Example:**
 ```csharp
